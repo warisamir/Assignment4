@@ -1,4 +1,4 @@
-**first copy all code from the link https://github.com/warisamir/Assignment4.git
+first copy all code from the link https://github.com/warisamir/Assignment4.git
 commnad for the frontend 
  cd frontend 
  npm i 
